@@ -1,16 +1,37 @@
-# React + Vite
+Profile Card UI (React + Tailwind)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean Profile Card UI built using React and Tailwind CSS.
+This project demonstrates modern UI design with profile image, social icons, buttons, and stats.
 
-Currently, two official plugins are available:
+🚀 Features
+🎨 Clean and modern UI design
+🖼️ Profile image with overlap effect
+📱 Responsive layout
+🔗 Social media icons
+🔘 Action buttons (Subscribe & Message)
+📊 User stats section
+🛠️ Tech Stack
+React.js
+Tailwind CSS
+React Icons
+📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Profile Card UI (React + Tailwind)
 
-## React Compiler
+A simple and clean Profile Card UI built using React and Tailwind CSS.
+This project demonstrates modern UI design with profile image, social icons, buttons, and stats.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 Features
+🎨 Clean and modern UI design
+🖼️ Profile image with overlap effect
+📱 Responsive layout
+🔗 Social media icons
+🔘 Action buttons (Subscribe & Message)
+📊 User stats section
+🛠️ Tech Stack
+React.js
+Tailwind CSS
+React Icons
+📸 Preview
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![alt text](image-1.png)
